@@ -1,0 +1,3 @@
+- [x] Diagnosis
+- [ ] Diagnosis Authorization - not authorized due to unwillingness to go to doctor for medication
+- [ ] Followup 
