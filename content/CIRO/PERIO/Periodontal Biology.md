@@ -334,7 +334,7 @@ Functions
 5) apical group (15)
 	1) from cementum around the apex to bone (forming the base of the socket)
 
-![[assets/Periodontal Fibers.png]]
+![[assets/perio Periodontal Fibers.png]]
 ### Intercellular matrix (Ground Substance):
 - fills the space b/w cells and collagen fibers
 - amorphous material that binds tissue and fluids

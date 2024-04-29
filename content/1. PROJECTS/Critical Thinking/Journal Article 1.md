@@ -2,15 +2,15 @@ Periodontal disease–related nonalcoholic fatty liver disease and nonalcoholic 
 Ryutari Kuraji, et. al 2021
 # Background
 - Possible association between the oral cavity and liver
-	- Nutrients absorbed enters systemicirculation through fine capillariesurrounding the walls of the small intestine.  
-	- These capillaries merge with veins thaultimately enter the liver through the portavein. 
+	- Nutrients absorbed enters systemic circulation through fine capillaries surrounding the walls of the small intestine.  
+	- These capillaries merge with veins that ultimately enter the liver through the portavein. 
 	- The liver removes bacteria and further breakdown the nutrients then recirculates for usthroughout the body.
 	-  Inflammatory mediators from inflamed periodontal tissues can enter circulation
 	- P. gingivalis plays a role in the development of periodontitis by altering the normal microbiota to a dysibiotic state (Hajishengallis, et al. 2011) - Lindhe, Clinical Periodontology and Implant Dentistry
 	- P. gingivalis also may be involved in the development of nonalcoholic fatty liver disease through gut dysbiosis
 - Directions of Research
 	- 1990s-2000s
-		- bidirectional association between poor oral hygieene and preiodontal disease and chronic hepatitis and cirrhosis
+		- bidirectional association between poor oral hygiene and preiodontal disease and chronic hepatitis and cirrhosis
 	- 2000s
 		- possible involvement of systemic inflammation and oxidative stress from periodontitis in the development of Nonalcoholic fatty liver disease 
 	- 2010s
@@ -247,3 +247,23 @@ asdfasd
 periodontal parameter: dependent variable; liver disease as independent
 
 periodontal disease as independent variable and liver disease as dependent
+
+# Dependent Variable: Cause 
+## Independent Variable: EFFECT 
+
+Cohort Study - Observational study that takes place over a period of time to investigate the association between exposure to a risk factor or an intervention and the occurence of an outcome, such as disease or resolution of a disease.  
+- prospective - subjects are identified then observed; baseline data is first collected then followed over time to assess the occurence of an outcome  
+- retrospective - you go through medical records, identifying the patients based on exposure status.  
+
+Case control study 
+- observational study where you investigate the association between a risk factor and the occurence of an outcome.  Participants with a certain disease/outcome are compared to individuals without the outcome (control group) to assess the differences.  
+
+Cross-sectional study - observational study where you investigate the prevalence of a condition in a defined population at a certain point in time 
+- gather demographic data, medical history, behaviors that affect their health and then the presence/absence of a certain condition.
+
+predict cases of advanced fibrosis
+
+
+AST / ALT ratio increase as liver function decreases
+- AST is found in hepatocytes and in other tissues 
+- ALT is primarily found in hepatocytes 
