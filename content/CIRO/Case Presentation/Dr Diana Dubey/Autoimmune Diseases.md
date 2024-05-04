@@ -44,6 +44,7 @@ Result: Loss of mobility / Fusion of adjacent bony structures
 TMJ
 Xerostomia
 periodontitis
+Secondary Sjogren's syndrome 
 
 # Systemic Lupus Erythematosus (SLE)
 - impaired apoptotic processes, adaptive immune systemic interactions, complement activation and tissue inflammation ends in a self-sustained autoimmune process. 
