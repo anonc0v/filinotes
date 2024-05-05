@@ -64,7 +64,23 @@ Inihbits plaque through 2 mechanisms
 6. Flavors
 7. Active Agents
 	1. [[1. PROJECTS/Dentistry/Dental Materials/Fluoride|Fluoride]]
+## 2. Mouthwashes
+- alcohol improves shelf life
+- Most contain ≤10% alcohol 
+- relationship b/w alcohol and oral cancer has not been established
+![[assets/Perio mouthwash Oral-B.png|300]]
+## 3. Spray 
+- may target specific area 
+- as effective as mouthwashes 
+- useful for elderly/disabled 
+- stain teeth and tongue as much as mouthwashes 
 
+![[assets/Perio spray bexident.png|300]]
+
+
+![[assets/Perio Oral Chemotherapeutic Agents abbreviated summary.png|300]]
+
+![[assets/Perio Mouthwash Cetylpridinium chlroide.png]]
 ## [[1. PROJECTS/Dentistry/Dental Materials/Chlorhexidine]] 
 - Chemical structure: Diguanidohexane
 - contains **12% alcohol** 
@@ -78,11 +94,52 @@ Inihbits plaque through 2 mechanisms
 		- tongue
 		- resins 
 
+[[1. PROJECTS/Dentistry/Dental Materials/Chlorhexidine]]  Brand names:
+1. Bexident Encías Colutorio (0.20%)
+2. Perioxidin
+![[assets/Perio mouthwash and gel perioxoidin.png|300]]
+3. Oral-B Gingivitis 
+4. KIN gingival
+	1. ![[assets/Perio mouthwash kin.png|200]]
+5. Periogard (Colgate)
+![[assets/Perio perioguard.png|200]]
 
+## Directions for Mouthwash 
+- twice a day 
+- no dilution 
+- 1. Brush 
+- 2. Wait 15-20 minutes 
+- 3. Mouthwash 
+- 4. 10-15 minutes without eating or drinking 
 
+Characteristics for Plaque Control 
+- agent must have **SUBSTANTIVITY**
+	- capcity to remain active for a period of time
+- antimicrobial activity againt primary colony former
+- Minimum neutralization by bacteria and their products 
 
+## Chlorhexidine 
+- 1970 Loe y Schiott - 10mL of CHSX for 0.2% for 60s results in plaque inhibition 
+
+### Toxicity, Safety, and secundary effects 
+- not well-abosrbed by skin, mucosa and digestive tract
+- not teratogenic
+- no gastric effects
+- Effective against gram + and gram - bacteria 
+- Effective against yeasts, fungi (candida) and viruses (HIV and HBV)
+- no reports of bacterial resistance and does not cause fungal opportunistic infection (Candida)
+
+### Side-effects
+1. Brown staining of teeth, tongue, restoration material 
+2. Taste alterations (decrease in salty taste)
+3. Erosion of oral mucosa (dose-dependent)
+4. Unilateral/bilateral sweilling of parotid gland
+5. Bitter taste
+
+ ![[assets/Perio mouthwash CHX.png|300]]
+
+![[assets/Perio mouthwash CHX 2.png|300]]
 # Local Chemotherapeutic Agents 
-
 ## Tetracycline Fibers
 - ACTYSITE tetracycline fibers
 - margin then sealed with Isocyanocrylate 
