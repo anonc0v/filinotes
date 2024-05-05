@@ -121,6 +121,13 @@ Characteristics for Plaque Control
 ## Chlorhexidine 
 - 1970 Loe y Schiott - 10mL of CHSX for 0.2% for 60s results in plaque inhibition 
 
+### Mechanism of action 
+- powerful anti-MO power 
+- **substantivity**
+	- **bacteriostatic** effect last 12 hours
+	- binds strongly to plasma membrane of bacteria 
+- **Bactericidal**: causes precipitation of cytoplasm
+- slow-release from teeth surfaces 
 ### Toxicity, Safety, and secundary effects 
 - not well-abosrbed by skin, mucosa and digestive tract
 - not teratogenic
@@ -139,6 +146,8 @@ Characteristics for Plaque Control
  ![[assets/Perio mouthwash CHX.png|300]]
 
 ![[assets/Perio mouthwash CHX 2.png|300]]
+
+
 # Local Chemotherapeutic Agents 
 ## Tetracycline Fibers
 - ACTYSITE tetracycline fibers
