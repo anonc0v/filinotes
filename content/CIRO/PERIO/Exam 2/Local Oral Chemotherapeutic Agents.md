@@ -142,27 +142,65 @@ Characteristics for Plaque Control
 3. Erosion of oral mucosa (dose-dependent)
 4. Unilateral/bilateral sweilling of parotid gland
 5. Bitter taste
-
  ![[assets/Perio mouthwash CHX.png|300]]
 
 ![[assets/Perio mouthwash CHX 2.png|300]]
 
 
 # Local Chemotherapeutic Agents 
-## Tetracycline Fibers
-- ACTYSITE tetracycline fibers
+##  1. Tetracycline Fibers
+- **ACTYSITE** tetracycline fibers
 - margin then sealed with Isocyanocrylate 
 - 2nd appointment required for removal 
-
+![[assets/Perio ACTYSITE.png]]
 ### Post-op Instructions
 - do not brush
 - do not floss
 - CHX 2x for 2 weeks
-- mouthwash 1 week after removal
+- mouthwash 1 week after removal 
 
+## 2.  Chlorhexidine Chip
+- **Perio Chip** 
+	- Biodegradable - Does NOT require 2nd appointment
+- 2.5mg of CHX.png 
+- self-retentive upon contact with moisture
+	- no need for dressings/adhesives 
+- placed immediately after SRP 
+- difficult to place in pockets <5mm
 
+![[assets/Perio Chip placement.png|300]]
 
+### Post-op instructions 
+- do not brush/floss for 7 days 
+- CHX mouthwash 2x/day for 2 weeks 
 
+Combined therapy results in significant improvement in PD (up to 30%) over SRP alone
 
+## 3. Doxycycline Gel
+- **ATRIDOX**
+- 10% doxycycline 
+- biodegradable polymer - does not require 2nd appointment
+- hardens after exposure to crevicular fluid 
+- achieves levels of 250 ug/ml doxycyline in gingival fluid for 7 days 
+- available in :
+	- manually-mixed syringe, where syringes are coupled and mixed by moving contents back and forth for 100 cycles
+	- premixed 
+![[assets/Perio Doxycycline Mix.png]]
+![[assets/Perio doxycycline gel placement.png]]
+### Post-up instructions
+- do not brush or floss for 7 days
+
+## 4. Minocycline Microspheres
+- **ARESTIN** 
+- bioabsorbably polymer - does not require 2nd appointment
+- 1mg of minocycline
+- bioadhesive on contact with moisture 
+
+### Post-op instructions 
+- avoid brushing for 12 hours 
+- no interdental cleaning for 10 days 
+- maintains therapeutic concentrations for 14 days 
+![[assets/Perio Arestin.png]]
+![[assets/Perio Arestin 2.png]]
 # References
 
