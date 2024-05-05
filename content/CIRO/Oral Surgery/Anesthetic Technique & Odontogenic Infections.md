@@ -6,7 +6,7 @@ Subject: Oral Surgery
 tags: 
 Deadline: 
 Links: 
-Exam: 
+Exam: 2
 Exam Date:
 ---
 # Action Items
@@ -18,7 +18,7 @@ Exam Date:
 
 # Action Items - Odontogenic Infections
  - [ ] 3rd edition Peterson has ODONTOGENIC INFECTIONS
- - [ ] boundaries - cube: anterior 
+ - [ ] boundaries - cube: superior, inferior, anterior, posterior, medial, lateral, 
 # Anesthesia 
 
 1.8mL x 2% = 36mg
@@ -148,7 +148,7 @@ Buccal spaces
 - lateral
 - medial 
 
-NExt lecture: severity of space infections 
+Next lecture: severity of space infections 
 
 # Title
 
