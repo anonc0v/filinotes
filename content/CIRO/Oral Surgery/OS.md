@@ -32,7 +32,7 @@ Surgery day
 2. signed case file
 3. authorization of pre-op note (smile + case file) > schedule
 4.  sterile material (complete) file review, chair & instruments preparation before patient entering
-5.  [[OS#BEFORE doing anything with the patient, even anes, inform Dr. Fernando|Procedure]]
+5.  [[CIRO/Oral Surgery/OS#BEFORE doing anything with the patient, even anes, inform Dr. Fernando|Procedure]]
 6.  post-op note authorization (smile + case file) > evaluation
 *** **let assistant know 30 min before surgery if patient will cancel******
 
