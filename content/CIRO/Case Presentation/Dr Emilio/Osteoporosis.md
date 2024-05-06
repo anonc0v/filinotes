@@ -101,6 +101,11 @@ Oral: 10 mg/dia o 70 ms/sem. tomar al levantarse, en ayunas con agua (no agua mi
 
 Zoledronico acido 
 
+Lab test for osteoporosis:
+- Densitometry
+
+CTX
+- Test to determine risk of osteonecrosis of the Jaw
 
 
 
