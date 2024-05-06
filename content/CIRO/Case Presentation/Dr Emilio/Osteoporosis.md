@@ -106,7 +106,9 @@ Lab test for osteoporosis:
 
 CTX
 - Test to determine risk of osteonecrosis of the Jaw
-
+- less than 150pg/ml - higher risk
+- 100-150mg/ml - moderate risk
+- >150mg/ml - low risk 
 
 
 
