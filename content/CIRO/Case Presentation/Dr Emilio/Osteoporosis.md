@@ -94,14 +94,14 @@ Treatment dentist should manage patients who are taking oral bisphosphonates in 
 5. Should BON occur, only sharp edges of exposed bone should be removed; minimal surgery should be performed. No definitive treatment for BON is available at this time.
 6. In case of any infection, aggressive use of systemic antibiotics is indicated. 
 
-Vademecum:
+### Vademecum:
 Posología
 Alendrónico ácido
 Oral: 10 mg/dia o 70 ms/sem. tomar al levantarse, en ayunas con agua (no agua mineral), 30 min antes de la 1st comida, bebida o medicamento del dia. No tumbarse hasta trascurridos al menos 30 min. Asociar Ca y vit. D si la ingesta es inadecuada. Reevaluar tto. tras 5 anos o mas anos de uso. 
 
 Zoledronico acido 
 
-Lab test for osteoporosis:
+## Lab test for osteoporosis:
 - Densitometry
 
 CTX
@@ -111,7 +111,17 @@ CTX
 - >150 pg/ml - low risk 
 - tests are only a guide; osteonecrosis can happen to patients even low risk; conversely, osteonecrosis may not happen in patients in high risk category
 
+Arthritis = inflammation of the joints
+Arthrosis = osteoarthritis = type of arthritis that causes joint breakdown 
 
+Fase I 
+- Verificar la toma de los medicamentos o cualquier cambio 
+- Procedimientos lo menos traumáticos posibles
+- Solicitar que acuda con un acompañante
+- Ayudar al paciente a subir y bajar de la unidad
+- Evitar procedimientos prolongados con apertura maxima del paciente 
+- (possibilty of secondary conditions like arthritis/arthrosis, may be taking corticosteroids)
+- (favor the use of removable prosthetics instead of fixed prosthetics if patient cannot clean well)
 
 
 

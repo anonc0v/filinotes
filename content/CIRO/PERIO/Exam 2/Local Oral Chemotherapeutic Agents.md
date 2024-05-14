@@ -200,7 +200,14 @@ Combined therapy results in significant improvement in PD (up to 30%) over SRP a
 - avoid brushing for 12 hours 
 - no interdental cleaning for 10 days 
 - maintains therapeutic concentrations for 14 days 
-![[assets/Perio Arestin.png]]
-![[assets/Perio Arestin 2.png]]
+![[assets/Perio Arestin.png|300]]
+![[assets/Perio Arestin 2.png|300]]
+![[assets/Perio Minocycline.png|300]]
+
+
+
+
+
+
 # References
 

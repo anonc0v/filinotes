@@ -2,6 +2,6 @@
 
 # Mount
 
-![[assets/2-Table1-1 1.png]]
+![[assets/Operative Mounts Classification.png]]
 
 ICDAS
