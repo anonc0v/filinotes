@@ -64,3 +64,6 @@ Lateral - platysma ms. and superficial layer of deep cervical ms.
 Medial - mylohyoid, hyoglossus, styloglossus 
 
 >[!success] Connections: Lateral pharyngeal space, submental space, sublingual space, and buccal space
+
+
+instead of medial and lateral, deep and superficial 

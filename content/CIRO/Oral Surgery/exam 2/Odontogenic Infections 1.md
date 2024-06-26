@@ -13,8 +13,8 @@ Exam Date:
 # Action Items
 - [ ] trigeminal ganglion 
 - [ ] injecting to posterior to ramus - parotid gland and ___ vessel >> hematoma & temporary ipsilateral sagging of face 
-- [ ] 
-# Title
+- [ ] External carotid artery, Maxillary artery, Facial artery, retromandibular vein
+# Odontogenic Infections 1
 
 Anatomia humana
 - superior
@@ -69,7 +69,7 @@ Raiz motora
 	- pterigoideo externo
 	- milohioideo 
 	- vientre anerior del digastrico 
-|image of gass... ganglion|  opthalmic maxillary, 
+|image of gasserion ganglion|  opthalmic maxillary, 
 
 opthalmic passes through Superior orbital fissure, 
 rotundum / great round foramen 
@@ -160,7 +160,7 @@ Al aumentar la perfusion podemos observar
 3. disminucion de la profundidad y tiempo de anestesia 
 4. hemorragia por incremento de perfusion 
 
-SEfectos adversos y sobredosis 
+Efectos adversos y sobredosis 
 - miedo y ansiedad
 - tension 
 - desasosiego 
@@ -177,13 +177,4 @@ too much epinephrine can cause a myocardial infarction
 next class:
 techniques 
 
-
-
-
-
-
-
-
-
-# References
 

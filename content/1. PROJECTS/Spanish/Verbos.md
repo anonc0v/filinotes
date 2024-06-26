@@ -1,4 +1,5 @@
 verbos: #verbos/reflexivos
+apagar = to turn off/to put out (a light)
 conocerse = nos conocimos... 
 acercarse = to approach
 ponerse = to put, to start, to begin
@@ -13,9 +14,49 @@ demostrar = to demonstrate; to prove
 probar = to try
 probarse = to try on
 soler = to be accustomed to/ to 
+lanzar = to throw
+calentar = warm up/to heat
 
+colloquial:
+pelar = pay attention to/ cared about 
+Nadie la pelaba = nobody paid attention to her 
+haber pedo = to have a problem/drunk/situation/fart
+don de gentes = people skills
+no seas virgen, boludo = don't be naive, moron
+
+junta - meeting
+ya era tiempo - it's about time
+dejamele caer - give it to me straight
+me aguanto - i can take it 
+vuelvete un capitan - become a captain
+el dueño = owner
+fallecio = died
+cardiaca fulminante 
+asi es = that's right
+andie va a poder olvidar = nobody can ever forget
+como no = wouldn't you know it
+me dejo = left me
+supongo = i guess
+asi que = therefore 
+ni madres = no fucking way 
+nunca falla = never fails
+que duermas bien
+recer = to pray
+
+llegar
+llegué
+llegaste
+llegó
+llegamos
+llegaron
+
+
+
+-verbs that end in gar; only first person preterite has irregular spelling, where g changes to gu (llegar = llegué)
 # verbos regulares: #verbos/regulares
 acabar = to finish, to end
+charlar = to chat
+colocar = to place
 transladar = to move/to transfer from one place to another - referring to people, things, or concepts
 mudarse = to move specifically referring to a dwelling
 suceder = to happen/to occur

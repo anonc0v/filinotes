@@ -10,9 +10,7 @@ Exam:
 Exam Date: 
 Lecturer:
 ---
-# Action Items
-
-# Title
+# Odontogenic infections 3
 
 (TC) **CT scan** - looks like a cyclone, more expensive
 Cone beam - looks like a cone, smaller images, lower radiation
@@ -107,14 +105,14 @@ Factors associated with immune system compromise
 - diabetes 
 - steroid therapy 
 - organ trnasplants
-- malignanyc
+- malignancy
 - chemotherapy
-- chrnoic renal disease
+- chronic renal disease
 - malnutrition
-- alcholhims
+- alcoholism
 - end stage AIDS
 
-Surviviing sepsis campaign
+Surviving sepsis campaign
 1. *act quickly upon sepsis * septic shock recognition
 2. Minimize time to treatment - sepsis & septic shock are medical emergencies 
 3. monitor closely for response to intervtions 

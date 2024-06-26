@@ -9,15 +9,9 @@ Links:
 Exam: 2
 Exam Date:
 ---
-# Action Items
-
-# Title
-
-# References
-
-
+# Anesthetic Technique & Odontogenic Infections
 # Action Items - Odontogenic Infections
- - [ ] 3rd edition Peterson has ODONTOGENIC INFECTIONS
+ - [ ] 2nd edition of Peterson's has ODONTOGENIC INFECTIONS
  - [ ] boundaries - cube: superior, inferior, anterior, posterior, medial, lateral, 
 # Anesthesia 
 
@@ -133,7 +127,7 @@ take 3 days to work:
 Lincosamides
 B-lactams
 
-Disemination
+Dissemination
 Buccinator muscle attachment is higher or lower than the root
 
 # Fascial spaces
@@ -149,8 +143,4 @@ Buccal spaces
 - medial 
 
 Next lecture: severity of space infections 
-
-# Title
-
-# References
 

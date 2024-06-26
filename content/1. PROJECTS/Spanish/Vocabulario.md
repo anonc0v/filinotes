@@ -41,6 +41,15 @@ el almenecer = dawn
 el crepúsculo = dusk
 ladrillo = bricks
 specifically = espicificamente, concretamente
+darse cuenta de - to realize
+gimiendo = moaning
+por lo que yo se = as for as i know/ to my knowledge 
+sea por lo que sea = for whatever reason
+si o si = whether they like it or not / one way or another
+si mismo = oneself / himself/herself ?
+aunque = although
+pese a que = even though
+pese a = despite 
 
 si hubiera sabido de este programa habría venido aquí
 
@@ -69,3 +78,15 @@ tener frío/hambre/miedo/razón/sed/culpa de
 
 -House vocab
 ![[Screenshot 2024-02-16 at 21.36.50.png]]
+
+Use of Haber 
+- auxiliary verb - helps other verbs express tense or mood
+- impersonal verb - always in 3rd person form 
+	- Ej: Hay que estudiar para el examen - One must study for the exam 
+	- Ej: Hay que limpiar la casa: The house needs to be cleaned
+	- Ej: Hay que tener paciencia: One must have patience.
+	- Ej: No habrá posibilidad de amor en mi vida, porque Ana no me quiere mas. 
+- present participle (ando/iendo + ado/ido)
+	- Ej: Habiendo cenado, Luis decidio ver la tele. Having eaten dinner, luis decided to watch television
+- past participle Ha habido muchos cambios este año. There have been lots of changes this year. 
+

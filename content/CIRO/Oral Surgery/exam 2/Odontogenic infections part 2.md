@@ -10,9 +10,7 @@ Exam:
 Exam Date: 
 Lecturer:
 ---
-# Action Items
-
-# Title
+# Odontogenic Infections part 2
 
 - pediatric patients: buccal and canine spaces - most common swellings/fascial space infection 
 - everytime you see an odontogenic infection spreading to the surrounding soft tissues, consider sending to the hospital for managements (tests for glucose management, liver function, renal function, HCO3 levels, airway patency)
@@ -104,7 +102,7 @@ Extract first molar, antibiotics, nsaids
 - inject 1/3rd, replace 1/3rd with sodium bicarbonate, then inject as normal 
 - the sodium bicarbonate will increase the pH 
 
-nosocomial pnemonia - most common infection, esp if they have an endotracheal tube; especially if they have comorbidities - diabetes, hypertension 
+nosocomial pneumonia - most common infection, esp if they have an endotracheal tube; especially if they have comorbidities - diabetes, hypertension 
 
 Langer Line's (cleavage lines, relaxed skin tension lines) - incision guidelines - parallel to direction of collagen fibers and underlying muscle fibers; 
 drainage placed in involved space; need to know anatomy to prevent damaging underlying structures 
@@ -122,7 +120,7 @@ infratemporal, deep temporal, buccal, submandibular, pretracheal, retropharyngea
 - Bacteria - most anaerobic 
 - Risk +++ (riskier than cellulitis)
 
-Compications
+Complications
 - cellulitis 
 - osteitis
 - osteomyelitis
@@ -132,7 +130,7 @@ Compications
 
 Ludwig angina 
 - elevated floor of mouth causing tongue to be out of mouth 
-- [ ] propthosis of tongue? (tongue out)
+- [ ] proptosis of tongue (tongue out)
 
 Alveolar osteitis 
 - dry socket 
@@ -161,10 +159,10 @@ Scales - to determine risk of patient to die; no need to memorize
 respiration
 coagulation
 liver (bilibrubin)
-Cardiovascular (with eks)
+Cardiovascular (with ekg)
 Central nervous system - glascow comma scale 
 renal (urine output)
-- qSOFA
+- SOFA
 	- glasgow
 	- etc.
 - NEWS
